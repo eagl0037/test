@@ -1,0 +1,3 @@
+You wake up on the bank of a mysterious river surrounded by dense forest...
+- [Cross the bridge](cross-the-bridge.md)
+- [Take the rowboat downstream](rowboat.md)
